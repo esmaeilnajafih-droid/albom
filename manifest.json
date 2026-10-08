@@ -1,0 +1,13 @@
+{
+    "name": "NEXUS GALLERY",
+    "short_name": "NEXUS",
+    "description": "گالری عکس دیجیتال آینده‌نگرانه — تا ۱۰۰ عکس همزمان آپلود کن",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#05010f",
+    "theme_color": "#05010f",
+    "lang": "fa",
+    "dir": "rtl",
+    "scope": "./"
+}
